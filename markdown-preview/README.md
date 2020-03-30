@@ -3,6 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
 👤 **Author**
 
 
@@ -10,6 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Twitter: [Nella](https://twitter.com/Nella75794271)
 - Linkedin: [Nela Komane](https://www.linkedin.com/in/nela-komane-8866b9192/)
 - Email: nellencr@gmail
+
+### `LIVE DEMO`
+Open [live demo](http://localhost:3000)
 
 
 ### `npm start`
